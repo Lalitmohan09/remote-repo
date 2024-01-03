@@ -1,3 +1,3 @@
 // javascript file
-// Write script file here
+// Write script and js file here
 document.write("script file is running javascript")
